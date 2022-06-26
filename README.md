@@ -95,8 +95,8 @@ risk of interfering with the robot.
 
 
 ### Results of simulation 
-![OUTPUT](./b1.PNG)
-![OUTPUT](./b2.PNG)
-![OUTPUT](./b3.PNG)
+![OUTPUT](./b1.png)
+![OUTPUT](./b2.png)
+![OUTPUT](./b3.png)
 
 
